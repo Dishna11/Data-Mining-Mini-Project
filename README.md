@@ -1,2 +1,2 @@
-# Data-Mining-Mini-Project
+# Supermarket sales dashboard
 Supermarket sales dashboard using streamlit
